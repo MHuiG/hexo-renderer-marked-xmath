@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-marked-xmath",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Xmath",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "git+https://github.com/MHuiG/hexo-renderer-marked-xmath.git"
   },
   "keywords": [
+    "xmath",
     "md",
     "math",
     "mathjax",
