@@ -1,5 +1,7 @@
 # hexo-renderer-marked-xmath
 
+[![](https://img.shields.io/npm/v/hexo-renderer-marked-xmath.svg?style=flat-square)](https://www.npmjs.com/package/hexo-renderer-marked-xmath)
+
 Hexo 懒人包 一键支持 markdown 和 mathjax
 
 
