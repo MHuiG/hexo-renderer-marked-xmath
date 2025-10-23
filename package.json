@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-marked-xmath",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Xmath",
   "main": "index.js",
   "scripts": {
@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/MHuiG/hexo-renderer-marked-xmath/",
   "dependencies": {
-    "hexo-xmath": "*",
-    "hexo-renderer-marked": "*"
+    "hexo-xmath": "^0.0.8",
+    "hexo-renderer-marked": "^7.0.1"
   },
   "devDependencies": {
 
