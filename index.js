@@ -9,7 +9,7 @@ hexo.config.marked = Object.assign({
   pedantic: false,
   breaks: true,
   smartLists: true,
-  smartypants: true,
+  smartypants: false,
   modifyAnchors: 0,
   autolink: true,
   mangle: true,
