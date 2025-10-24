@@ -16,7 +16,7 @@ npm uninstall hexo-xmath
 npm uninstall hexo-renderer-marked
 npm uninstall hexo-renderer-kramed
 npm uninstall hexo-renderer-markdown-it
-npm uninstall  hexo-renderer-markdown-it-plus
+npm uninstall hexo-renderer-markdown-it-plus
 npm uninstall hexo-renderer-multi-markdown-it
 npm uninstall hexo-renderer-pandoc
 npm uninstall hexo-renderer-unified
