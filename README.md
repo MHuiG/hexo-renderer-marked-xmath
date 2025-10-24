@@ -1,8 +1,10 @@
-# hexo-renderer-marked-xmath
+# hexo-x
 
-[![](https://img.shields.io/npm/v/hexo-renderer-marked-xmath.svg?style=flat-square)](https://www.npmjs.com/package/hexo-renderer-marked-xmath)
+[![](https://img.shields.io/npm/v/hexo-x.svg?style=flat-square)](https://www.npmjs.com/package/hexo-x)
 
-Hexo 懒人包 一键支持 markdown 和 mathjax
+Hexo 懒人包 一键支持 markdown 和 mathjax.
+
+> 懒人包不应该用很长的包名
 
 
 ## 准备
@@ -12,7 +14,7 @@ Hexo 懒人包 一键支持 markdown 和 mathjax
 ## 安装
 
 ```shell
-npm install hexo-renderer-marked-xmath --save
+npm install hexo-x --save
 ```
 
 
