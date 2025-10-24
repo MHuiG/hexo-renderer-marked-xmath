@@ -7,7 +7,7 @@ Hexo 懒人包 一键支持 markdown 和 mathjax
 
 ## 准备
 
-安装之前需要卸载其他全部的 markdown 渲染器和数学公式渲染器。
+安装之前需要卸载全部的 markdown 渲染器和数学公式渲染器。包括 hexo-renderer-marked 。
 
 ## 安装
 
