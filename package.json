@@ -1,5 +1,5 @@
 {
-  "name": "hexo-x",
+  "name": "hexo-xm",
   "version": "0.0.10",
   "description": "Xmath",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MHuiG/hexo-x.git"
+    "url": "git+https://github.com/MHuiG/hexo-xm.git"
   },
   "keywords": [
     "xmath",
@@ -19,12 +19,12 @@
     "hexo"
   ],
   "author": "MHuiG",
-  "readme": "https://github.com/MHuiG/hexo-x/#readme",
+  "readme": "https://github.com/MHuiG/hexo-xm/#readme",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/MHuiG/hexo-x/issues"
+    "url": "https://github.com/MHuiG/hexo-xm/issues"
   },
-  "homepage": "https://github.com/MHuiG/hexo-x/",
+  "homepage": "https://github.com/MHuiG/hexo-xm/",
   "dependencies": {
     "hexo-xmath": "^0.0.10",
     "hexo-renderer-marked": "^7.0.1"
