@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/MHuiG/hexo-renderer-marked-xmath/",
   "dependencies": {
-    "hexo-xmath": "^0.0.8",
+    "hexo-xmath": "^0.0.9",
     "hexo-renderer-marked": "^7.0.1"
   },
   "devDependencies": {
