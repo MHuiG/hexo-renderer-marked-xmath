@@ -11,6 +11,18 @@ Hexo 懒人包 一键支持 markdown 和 mathjax.
 
 安装之前需要卸载全部的 markdown 渲染器和数学公式渲染器。包括 hexo-renderer-marked 。
 
+```shell
+npm uninstall hexo-xmath
+npm uninstall hexo-renderer-marked
+npm uninstall hexo-renderer-kramed
+npm uninstall hexo-renderer-markdown-it
+npm uninstall  hexo-renderer-markdown-it-plus
+npm uninstall hexo-renderer-multi-markdown-it
+npm uninstall hexo-renderer-pandoc
+npm uninstall hexo-renderer-unified
+```
+
+
 ## 安装
 
 ```shell
