@@ -1,6 +1,6 @@
-# hexo-x
+# hexo-xm
 
-[![](https://img.shields.io/npm/v/hexo-x.svg?style=flat-square)](https://www.npmjs.com/package/hexo-x)
+[![](https://img.shields.io/npm/v/hexo-xm.svg?style=flat-square)](https://www.npmjs.com/package/hexo-xm)
 
 Hexo 懒人包 一键支持 markdown 和 mathjax.
 
@@ -14,7 +14,7 @@ Hexo 懒人包 一键支持 markdown 和 mathjax.
 ## 安装
 
 ```shell
-npm install hexo-x --save
+npm install hexo-xm --save
 ```
 
 
