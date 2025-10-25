@@ -20,6 +20,8 @@ npm uninstall hexo-renderer-markdown-it-plus
 npm uninstall hexo-renderer-multi-markdown-it
 npm uninstall hexo-renderer-pandoc
 npm uninstall hexo-renderer-unified
+npm uninstall hexo-renderer-marked-xmath
+npm uninstall hexo-filter-mathjax
 ```
 
 
@@ -40,6 +42,14 @@ npm install hexo-xm --save
 
 [hexo-xmath](https://github.com/MHuiG/hexo-xmath/)
 
+## 题外话
+
+如果笔者哪天不在了，必要时可以使用暴力解决问题。
+
+```shell
+npm uninstall hexo-xm
+npm install hexo-renderer-marked-xmath --save --force
+```
 
 ## 许可证
 
