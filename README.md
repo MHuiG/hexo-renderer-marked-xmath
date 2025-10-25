@@ -2,14 +2,14 @@
 
 [![](https://img.shields.io/npm/v/hexo-xm.svg?style=flat-square)](https://www.npmjs.com/package/hexo-xm)
 
-Hexo 懒人包 一键支持 markdown 和 mathjax.
+Hexo 懒人包 一键支持 Markdown 和 Mathjax.
 
 > 懒人包不应当用很长的包名[…](https://www.npmjs.com/package/hexo-renderer-marked-xmath)
 
 
 ## 准备
 
-安装之前需要卸载全部的 markdown 渲染器和数学公式渲染器。包括 hexo-renderer-marked 。
+安装之前需要卸载全部的 Markdown 渲染器和数学公式渲染器。包括 hexo-renderer-marked 。
 
 ```shell
 npm uninstall hexo-xmath
