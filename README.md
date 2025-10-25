@@ -4,7 +4,7 @@
 
 Hexo 懒人包 一键支持 markdown 和 mathjax.
 
-> 懒人包不应当用很长的包名
+> 懒人包不应当用很长的包名[…](https://www.npmjs.com/package/hexo-renderer-marked-xmath)
 
 
 ## 准备
