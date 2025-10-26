@@ -48,6 +48,7 @@ npm install hexo-xm --save
 
 ```shell
 npm uninstall hexo-xm
+npm cache clean --force 
 npm install hexo-renderer-marked-xmath --save --force
 ```
 
