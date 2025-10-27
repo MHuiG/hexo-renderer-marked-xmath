@@ -1,6 +1,6 @@
 {
   "name": "hexo-xm",
-  "version": "0.0.10",
+  "version": "0.1.0",
   "description": "Xmath",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/MHuiG/hexo-xm/",
   "dependencies": {
-    "hexo-xmath": "^0.0.10",
+    "hexo-xmath": "^0.1.0",
     "hexo-renderer-marked": "^7.0.1"
   },
   "devDependencies": {
